@@ -1,5 +1,3 @@
---i hope u hire me lol😎😎😎
-
 --//locals//--
 local holder = script.Parent.Holder
 local ts = game:GetService("TweenService")
